@@ -244,7 +244,7 @@ Sorting works together with the `find` command, meaning that if you sort after r
 |-----------|--------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `ORDER`   |        | Yes         | `ORDER` can only take the form of 3 possible options:<br/> `asc` - sorts by name in ascending order. <br/> `desc` - sorts by name in descending order. <br/> `og` - sorts by name in the original order, based on the initial positioning of the contacts. |
 
-### Example
+#### Example
 * `sort asc` sorts the current list of contacts by name, in ascending order
 
 <div markdown="span" class="alert alert-primary">:bulb: **Tip:**<br/>
